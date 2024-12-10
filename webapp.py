@@ -2,8 +2,8 @@ import streamlit as st
 import functions
 
 st.title("My Todo App")
-st.subheader("Example of Subheader")
-st.write("Example of text")
+#st.subheader("Example of Subheader")
+#st.write("Example of text")
 
 todos=functions.get_date()
 
